@@ -36,8 +36,7 @@
     "stripe": "^8.160.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4",
-    "node": "16.x"
+    "nodemon": "^2.0.4"
   },
   "proxy": "http://localhost:4000",
   "browserslist": {

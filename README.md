@@ -1,3 +1,3 @@
 A FULLSTACK E-COMMERCE SITE FOR SELLING USED COMPUTER PERIPHERALS
 
-https://used-egg.onrender.com/
+https://used-egg-ecomm.herokuapp.com/
